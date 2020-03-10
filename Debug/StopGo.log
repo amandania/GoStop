@@ -1,0 +1,20 @@
+﻿  gameround.cpp
+c:\users\admin\desktop\ramapo_spring_2020\opl\stopgofinalversion[latest]\stopgo\stopgo\gameround.cpp(198): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\desktop\ramapo_spring_2020\opl\stopgofinalversion[latest]\stopgo\stopgo\gameround.cpp(209): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\desktop\ramapo_spring_2020\opl\stopgofinalversion[latest]\stopgo\stopgo\gameround.cpp(280): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\desktop\ramapo_spring_2020\opl\stopgofinalversion[latest]\stopgo\stopgo\gameround.cpp(353): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\desktop\ramapo_spring_2020\opl\stopgofinalversion[latest]\stopgo\stopgo\gameround.cpp(357): warning C4018: '>=': signed/unsigned mismatch
+c:\users\admin\desktop\ramapo_spring_2020\opl\stopgofinalversion[latest]\stopgo\stopgo\gameround.cpp(391): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\desktop\ramapo_spring_2020\opl\stopgofinalversion[latest]\stopgo\stopgo\gameround.cpp(481): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\desktop\ramapo_spring_2020\opl\stopgofinalversion[latest]\stopgo\stopgo\gameround.cpp(517): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\desktop\ramapo_spring_2020\opl\stopgofinalversion[latest]\stopgo\stopgo\gameround.cpp(521): warning C4018: '>=': signed/unsigned mismatch
+c:\users\admin\desktop\ramapo_spring_2020\opl\stopgofinalversion[latest]\stopgo\stopgo\gameround.cpp(551): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\desktop\ramapo_spring_2020\opl\stopgofinalversion[latest]\stopgo\stopgo\gameround.cpp(555): warning C4018: '>=': signed/unsigned mismatch
+c:\users\admin\desktop\ramapo_spring_2020\opl\stopgofinalversion[latest]\stopgo\stopgo\gameround.cpp(616): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\desktop\ramapo_spring_2020\opl\stopgofinalversion[latest]\stopgo\stopgo\gameround.cpp(638): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\desktop\ramapo_spring_2020\opl\stopgofinalversion[latest]\stopgo\stopgo\gameround.cpp(761): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\desktop\ramapo_spring_2020\opl\stopgofinalversion[latest]\stopgo\stopgo\gameround.cpp(879): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\desktop\ramapo_spring_2020\opl\stopgofinalversion[latest]\stopgo\stopgo\gameround.cpp(919): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\desktop\ramapo_spring_2020\opl\stopgofinalversion[latest]\stopgo\stopgo\gameround.cpp(925): warning C4018: '>': signed/unsigned mismatch
+c:\users\admin\desktop\ramapo_spring_2020\opl\stopgofinalversion[latest]\stopgo\stopgo\gameround.cpp(1222): warning C4018: '<': signed/unsigned mismatch
+  StopGo.vcxproj -> C:\Users\Admin\Desktop\Ramapo_Spring_2020\OPL\StopGoFinalVersion[Latest]\StopGo\Debug\StopGo.exe
